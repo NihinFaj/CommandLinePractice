@@ -1,6 +1,6 @@
 
 /**
- * A program that performs operations on two integers based on the operands passed
+ * A program that performs operations on two integers based on the operator passed
  *
  * @author (Nihinlolamiwa Fajemilehin)
  * @version (19th of December 2018)
