@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * A program that performs operations on two integers based on the operands passed from the Standard Input
+ * A program that performs operations on two integers based on the operator passed from the Standard Input
  *
  * @author (Nihinlolamiwa Fajemilehin)
  * @version (18th of December 2018)
