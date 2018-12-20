@@ -25,8 +25,8 @@ public class endoffile
             eofArray[i] = s.nextInt();
             i++;
         }
-        while (i >= 0) {
-            System.out.println(eofArray[i]);
+        while (i > 0) {
+            System.out.println(eofArray[i - 1]);
             i--;
         } 
     }
