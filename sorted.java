@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Arrays;
 
 /**
  * A program named sorted that takes a single argument k then reads from standard input
@@ -36,10 +37,9 @@ public class sorted
             }
         }
 
-        while (i > 0) {
-            System.out.println(myArray[i - 1]);
-            i--;
-        } 
-
+        Arrays.sort(myArray);
+        for(int value : myArray) {
+            System.out.println(value);
+        }
     }
 }
