@@ -7,6 +7,6 @@ all he/she needs to know. The comments should usually include at least:
 PROJECT TITLE: Java Command Line Practice
 PURPOSE OF PROJECT: A combination of different command line programs in Java
 VERSION or DATE: 20th of December, 2018
-HOW TO START THIS PROJECT:
+HOW TO START THIS PROJECT: Run from the Unix Command Line
 AUTHORS: Nihinlolamiwa Fajemilehin
 USER INSTRUCTIONS:
